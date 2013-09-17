@@ -19,3 +19,8 @@ This script integrates with the new cPanel backup system released with cPanel 11
  - Backup Directory: /
  - Remote Host: Set this to your S3 bucket name.
  - Save and Validate Destination.
+
+
+### Warning
+
+This script comes without any warranty. We've recently deployed it to a test server and everything seems to be working fine however it is not currently been used in a live environment so use at your own risk.
